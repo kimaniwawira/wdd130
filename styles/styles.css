@@ -1,3 +1,11 @@
+:root {
+    --background-color: darkblue #eee;
+    --color: white darkblue #333;
+    --width: 150px 840px 20em 200px;
+    --padding: 10px 20px 2px 10px 1em 0;
+    --height: auto;
+}
+
 nav {
     background-color: darkblue;
     padding: 10px;
